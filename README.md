@@ -28,7 +28,7 @@ A pixel-perfect iOS-inspired calculator built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-https://yourusername.github.io/ios-calculator-clone/
+https://careyonline.github.io/Calculator-ios-ui/
 
 ## Author
 
